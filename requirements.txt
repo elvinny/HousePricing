@@ -1,0 +1,6 @@
+- Python 2.7
+- lxml
+Download lxml-3.4.4-cp27-none-win32.whl
+pip install lxml-3.4.4-cp27-none-win32.whl
+- requests
+pip install requests
